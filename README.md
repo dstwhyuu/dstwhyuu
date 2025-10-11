@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">👋 Hi, I'm Komang Desta Wahyu Kurniawan</h1>
-<h3 align="center">An Enthusiastic Informatics Student from Bali, Indonesia 🇮🇩</h3>
+<h3 align="center">An Enthusiastic Informatics Student from Bali, Indonesia</h3>
 
 <br>
 
