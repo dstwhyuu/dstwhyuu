@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://path.to/your/cool/banner.png" alt="Welcome to my Profile!">
+  <img src="https://github.com/dstwhyuu/Web-2C/blob/f0a2a625abad08121e17774214ca13ad02ba0d2c/banner%20github.png">
   </p>
 
 <h1 align="center">👋 Halo, saya Komang Desta Wahyu Kurniawan</h1>
