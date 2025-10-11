@@ -23,9 +23,9 @@
 Ini adalah beberapa teknologi yang sedang saya gunakan dalam proyek kuliah dan pembelajaran pribadi saya.
 
 <p align="center">
-   <a href="https://www.php.com" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="php" width="55" height="55"/> 
-  </a>
+   <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="55" height="55"/> 
+</a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="55" height="55"/> 
   </a>
