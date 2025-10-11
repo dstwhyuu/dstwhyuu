@@ -1,31 +1,31 @@
 <p align="center">
-  <img src="https://github.com/dstwhyuu/Web-2C/blob/f0a2a625abad08121e17774214ca13ad02ba0d2c/banner%20github.png">
-  </p>
+  <img src="https://raw.githubusercontent.com/dstwhyuu/Web-2C/main/banner%20github.png" alt="Profile Banner">
+</p>
 
-<h1 align="center">👋 Halo, saya Komang Desta Wahyu Kurniawan</h1>
-<h3 align="center">Seorang Mahasiswa Informatika yang Antusias dari Bali, Indonesia 🇮🇩</h3>
+<h1 align="center">👋 Hi, I'm Komang Desta Wahyu Kurniawan</h1>
+<h3 align="center">An Enthusiastic Informatics Student from Bali, Indonesia 🇮🇩</h3>
 
 <br>
 
 <p align="center">
-  Saya adalah mahasiswa Manajemen Informatika semester 3 di <strong>Politeknik Negeri Bali</strong>. Saya memiliki ketertarikan yang besar pada dunia pengembangan perangkat lunak dan cara teknologi dapat memecahkan masalah di dunia nyata. Saat ini, saya sedang fokus untuk memperdalam fondasi saya dalam pemrograman dan mengeksplorasi berbagai bidang di dunia IT.
+  I am a 3rd-semester Information Management student at <strong>Politeknik Negeri Bali</strong>. I am passionate about software development and leveraging technology to solve real-world problems. Currently, I am focused on strengthening my programming fundamentals and exploring various fields within the IT world.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Aktif%20Belajar-brightgreen?style=for-the-badge" alt="Status Belajar">
-  <img src="https://img.shields.io/badge/Semester-Tiga-blue?style=for-the-badge" alt="Semester Tiga">
+  <img src="https://img.shields.io/badge/Status-Actively%20Learning-brightgreen?style=for-the-badge" alt="Learning Status">
+  <img src="https://img.shields.io/badge/Semester-Three-blue?style=for-the-badge" alt="Semester Three">
 </p>
 
 ---
 
-### 🚀 **Teknologi & Tools yang Sedang Saya Pelajari**
+### 🚀 **Technologies & Tools I'm Learning**
 
-Ini adalah beberapa teknologi yang sedang saya gunakan dalam proyek kuliah dan pembelajaran pribadi saya.
+These are some of the technologies I'm currently using in my university projects and personal studies.
 
 <p align="center">
-   <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="55" height="55"/> 
-</a>
+  <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="55" height="55"/> 
+  </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="55" height="55"/> 
   </a>
@@ -48,17 +48,17 @@ Ini adalah beberapa teknologi yang sedang saya gunakan dalam proyek kuliah dan p
 
 <br>
 
-- 🌱 Saat ini saya sedang mendalami **Pemrograman Berorientasi Objek dengan Java**.
-- 👯 Saya terbuka untuk berkolaborasi dalam proyek-proyek sederhana untuk menambah pengalaman.
-- 🤔 Saya sedang mencari bantuan untuk memahami konsep **Struktur Data & Algoritma** lebih dalam.
-- 💬 Tanya saya tentang apa pun yang berhubungan dengan **dasar-dasar HTML & CSS**.
-- 📫 Cara menghubungi saya: **destawahyu771@gmail.com**
+- 🌱 I’m currently diving deep into **Object-Oriented Programming with Java**.
+- 👯 I’m open to collaborating on simple projects to gain more experience.
+- 🤔 I’m looking for help with better understanding **Data Structures & Algorithms** concepts.
+- 💬 Ask me about anything related to **HTML & CSS fundamentals**.
+- 📫 How to reach me: **destawahyu771@gmail.com**
 
 ---
 
-### 📊 **Statistik & Aktivitas GitHub Saya**
+### 📊 **My GitHub Stats & Activity**
 
-Ini adalah gambaran aktivitas dan kontribusi saya di GitHub.
+Here's a snapshot of my activity and contributions on GitHub.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dstwhyuu&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
@@ -70,15 +70,15 @@ Ini adalah gambaran aktivitas dan kontribusi saya di GitHub.
 
 ---
 
-### 🔗 **Hubungi Saya di Sini**
+### 🔗 **Connect with Me**
 
-Jangan ragu untuk terhubung! Mari kita berdiskusi dan bertukar ilmu.
+Feel free to connect! Let's discuss ideas and share knowledge.
 
 <p align="center">
-  <a href="https://linkedin.com/in/[username-linkedin-kamu]">
+  <a href="https://linkedin.com/in/[your-linkedin-username]">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://instagram.com/dstwhyuu">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  </p>
+</p>
