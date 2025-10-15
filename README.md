@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/dstwhyuu/Web-2C/main/bannerfix.png" alt="Profile Banner">
-</p>
+
 
 <h1 align="center">👋 Hi, I'm Komang Desta Wahyu Kurniawan</h1>
 <h3 align="center">An Enthusiastic Informatics Student from Bali, Indonesia</h3>
